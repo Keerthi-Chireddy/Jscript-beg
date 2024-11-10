@@ -475,4 +475,5 @@ function includes(array, searchElement){
 
 //comment
 
-
+let arar=[1,2,3];
+console.log(arar);
